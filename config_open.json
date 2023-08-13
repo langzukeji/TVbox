@@ -1,48 +1,45 @@
 {
-“蜘蛛”：“./jar/fanty.jar;md5;5b2f704da69aa9910a5246018d7baa6d”，
-"lives" : [ { "name" : "live" , "type" : 0 , "url" : "https://xhdwc.tk/tvlive.txt" , "playerType" : 1 , "epg" : "http ://epg.112114.xyz/?ch={name}&date={date}" , "logo" : "https://epg.112114.xyz/logo/{name}.png" } ] ,
-"wallpaper" : "http://饭.eu.org/勘探色谱/api.php" ,
-“网站”：[
+"spider": "./jar/fanty.jar;md5;5b2f704da69aa9910a5246018d7baa6d",
+"lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"wallpaper":"http://饭.eu.org/深色壁纸/api.php",
+"sites":[
 {
-  “视频”：{
-    “网站”：[
+  "video": {
+    "sites": [
     {
-        “密钥”：“kunyu77”，
-        "name" : "猫佬丨鲲娱乐【国内】" ,
-        “类型”：3，
-        “api”：“/js/kunyu77_open.js”
-} ,
-
-
-
+        "key": "kunyu77",
+        "name": "猫佬丨鲲娱【国内】",
+        "type": 3,
+        "api": "/js/kunyu77_open.js"
+},
 
 
 
   {
-        “钥匙”：“ikanbot”，
-        "name" : "猫佬丨爱看【国内】" ,
-        “类型”：3，
-        “api”：“资产://js/ikanbot_open.js”
-} ,
+        "key": "ikanbot",
+        "name": "猫佬丨爱看【国内】",
+        "type": 3,
+        "api": "assets://js/ikanbot_open.js"
+}, 
    
  {
-        “关键”：“沃格”，
-        "name" : "猫佬丨玩偶【阿里】" ,
-        “类型”：3，
-        “api”：“资产://js/wogg_open.js”，
-        "ext" : "引号内填入阿里令牌"
-} ,
+        "key": "wogg",
+        "name": "猫佬丨玩偶【阿里】",
+        "type": 3,
+        "api": "assets://js/wogg_open.js",
+        "ext": "引号内填入阿里token"
+}, 
   
    {
-        “键”：“kkys”，
-        "name" : "猫佬丨快看【国内】" ,
-        “类型”：3，
-        “api”：“资产://js/kkys_open.js”
-} ,
+        "key": "kkys",
+        "name": "猫佬丨快看【国内】",
+        "type": 3,
+        "api": "assets://js/kkys_open.js"
+},
   {
-        “键”：“czzy”，
-        "name" : "猫佬丨厂长【国内】" ,
-        “类型”：3，
+        "key": "czzy",
+        "name": "猫佬丨厂长【国内】",
+        "type": 3,
         "api": "assets://js/czzy_open.js"
 },
    {
@@ -59,7 +56,7 @@
         "api": "assets://js/duboku1_open.js"
 } , 
     {
-        “钥匙”：“duboku2”，
+        "key": "duboku2",
         "name": "猫佬丨独播【国内】",
         "type": 3,
         "api": "assets://js/duboku2_open.js"
