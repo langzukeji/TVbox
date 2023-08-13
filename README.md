@@ -70,6 +70,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/langzukeji/TVbox/main/js.j
 
 （9）XYQ.json  XYQ源，jar包和配置来源于香雅情。
 
+（10）ftyjs.json  饭太硬大佬提供
+
 2. APP推荐:
 
 （1）FongMi版本  项目地址：https://github.com/FongMi/TV 支持直播多线路、支持自动换源、支持直播倍速，手机版支持投屏；
