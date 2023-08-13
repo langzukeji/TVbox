@@ -69,7 +69,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/langzukeji/TVbox/main/js.j
 （8）XBPQ.json  XBPQ源，jar包和配置来源于小米小爆脾气；
 
 （9）XYQ.json  XYQ源，jar包和配置来源于香雅情。
-（10）config_open.json  源于猫影视分享。
 
 2. APP推荐:
 
