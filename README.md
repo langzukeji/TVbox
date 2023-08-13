@@ -9,6 +9,47 @@ FongMi影视、TVBox配置文件。所有资源均来自于各路大神无私分
 所有直接或间接使用本仓库内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本仓库内容。如对本仓库内容的功能有需求，应自行开发相关功能。所有基于本仓库内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本仓库内容没有任何直接或间接的关系，所造成的一切后果亦与本仓库内容和本仓库管理者无关。
 
 
+GitHub加速
+国内访问地址一
+
+主接口：
+https://raw.iqiq.io/langzukeji/TVbox/main/js.json
+
+小雅js：
+https://raw.iqiq.io/langzukeji/TVbox/main/js.json
+国内访问地址二
+
+主接口：
+https://raw.fastgit.org/langzukeji/TVbox/main/js.json
+
+小雅js：
+https://raw.fastgit.org/langzukeji/TVbox/main/js.json
+国内访问备用地址一
+
+主接口：
+https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json
+
+小雅js：
+https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/drpy/xiaoya.json
+国内访问备用地址二
+
+主接口：
+https://raw.githubusercontents.com/langzukeji/TVbox/main/js.json
+
+小雅js：
+https://raw.githubusercontents.com/langzukeji/TVbox/main/js.json
+国内访问备用地址三
+
+主接口：
+https://ghproxy.com/https://raw.githubusercontent.com/langzukeji/TVbox/main/js.json
+
+小雅js：
+https://ghproxy.com/https://raw.githubusercontent.com/langzukeji/TVbox/main/js.json
+
+
+
+
+
 1. tvbox配置：
 
 （1）0707.json  Fengmi影视多线配置接口,仅适用于Fengmi影视；
